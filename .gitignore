@@ -38,3 +38,6 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# External library files
+KiCad_WE-PoE (rev26b)/
