@@ -613,6 +613,14 @@
     [
       "6631e6c4-daf1-4ebd-bf40-608d44fc040a",
       "Root"
+    ],
+    [
+      "f9b8777e-e436-47b2-bdff-d6bfeaabe796",
+      "HVBoost"
+    ],
+    [
+      "f8ad7e96-0a45-4b98-93c8-0be9b35d34fa",
+      "tubeamp"
     ]
   ],
   "text_variables": {}
