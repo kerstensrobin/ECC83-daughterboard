@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "6631e6c4-daf1-4ebd-bf40-608d44fc040a")
 	(paper "A4")
+	(title_block
+		(date "2026-04-20")
+		(company "nacho.works")
+	)
 	(lib_symbols
 		(symbol "power:GND"
 			(power)
@@ -241,7 +245,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "753539be-127a-4fb6-8caf-0b73d9891762")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR02"
 			(at 82.55 74.93 0)
 			(effects
 				(font
@@ -291,7 +295,7 @@
 		(instances
 			(project "ECC83-daughterboard"
 				(path "/6631e6c4-daf1-4ebd-bf40-608d44fc040a"
-					(reference "#PWR013")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -307,7 +311,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3979042-18f5-4695-8a81-cb6726802ccb")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR01"
 			(at 46.99 82.55 0)
 			(effects
 				(font
@@ -355,9 +359,9 @@
 			(uuid "87ac27b3-eadc-4f81-8434-46e0ff9bdb67")
 		)
 		(instances
-			(project ""
+			(project "ECC83-daughterboard"
 				(path "/6631e6c4-daf1-4ebd-bf40-608d44fc040a"
-					(reference "#PWR012")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -373,7 +377,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4db3b96-ea65-4345-aca7-a0769d5ba042")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR03"
 			(at 123.19 80.01 0)
 			(effects
 				(font
@@ -423,7 +427,7 @@
 		(instances
 			(project "ECC83-daughterboard"
 				(path "/6631e6c4-daf1-4ebd-bf40-608d44fc040a"
-					(reference "#PWR014")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)

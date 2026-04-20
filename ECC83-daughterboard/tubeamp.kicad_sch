@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "23588362-345f-4f53-adf6-dabbe0959d5e")
 	(paper "A4")
+	(title_block
+		(date "2026-04-20")
+		(company "nacho.works")
+	)
 	(lib_symbols
 		(symbol "Valve:ECC83"
 			(pin_names
@@ -576,7 +580,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77988b6f-97f1-47aa-8529-5d7a274469f8")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 156.21 132.0799 0)
 			(effects
 				(font
@@ -651,7 +655,7 @@
 		(instances
 			(project "ECC83-daughterboard"
 				(path "/6631e6c4-daf1-4ebd-bf40-608d44fc040a/f8ad7e96-0a45-4b98-93c8-0be9b35d34fa"
-					(reference "U2")
+					(reference "U3")
 					(unit 3)
 				)
 			)
@@ -667,7 +671,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d5416af8-ff0e-41a2-b26e-b1b1efd67ac3")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 153.67 71.1199 0)
 			(effects
 				(font
@@ -742,7 +746,7 @@
 		(instances
 			(project "ECC83-daughterboard"
 				(path "/6631e6c4-daf1-4ebd-bf40-608d44fc040a/f8ad7e96-0a45-4b98-93c8-0be9b35d34fa"
-					(reference "U2")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -758,7 +762,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5dfd80f-da82-4d1d-9d08-b65731f72057")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 154.94 104.1399 0)
 			(effects
 				(font
@@ -833,7 +837,7 @@
 		(instances
 			(project "ECC83-daughterboard"
 				(path "/6631e6c4-daf1-4ebd-bf40-608d44fc040a/f8ad7e96-0a45-4b98-93c8-0be9b35d34fa"
-					(reference "U2")
+					(reference "U3")
 					(unit 2)
 				)
 			)
